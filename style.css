@@ -36,8 +36,20 @@ body,{
 }
 
 .title{
-    font-size: 400px;
-    latter-spacing: 20px;
+    font-size: 40px;
     font-family: fantasy;
     color:black;
+}
+
+.myself{
+    font-size: 40px;
+    color:black;
+    /* background-color: white; */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tentangsaya{
+    font-size: 40px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
 }
